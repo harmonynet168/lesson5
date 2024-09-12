@@ -1,0 +1,25 @@
+.container{
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #5A4F4F;
+  padding: 10px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+*{
+  color: white;
+}
+.yellow{
+  color: yellow;
+}
+img{
+  height: 300px;
+}
+h1,h2{
+  color: lightblue;
+}
+h1{
+  font-size: 40pt;
+}
+p{
+  font-size: 1.2em;
+}
